@@ -14,7 +14,7 @@ public class Ejercicio01 {
                 variable5 + Math.sqrt(variable6);
                         
         System.out.println(resultado);
-
+            //CORREGIDO EN LA VARIABLE 6 
     }
 
 }
