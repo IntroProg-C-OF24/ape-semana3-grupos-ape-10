@@ -8,6 +8,8 @@ public static void main(String[] args) {
     double respuesta;
     respuesta= (Math.pow(var1,2)+var2-var3)/var4 ;
     System.out.println("La respuesta al problema es: " + respuesta);
+    //Ejercicio resuelto y analizado correctamente
+    //autro DAMINGA
     }
     
 }
