@@ -6,7 +6,7 @@ public static void main(String[] args) {
     double respuesta;
     respuesta= Math.pow(var1,2)+Math.sqrt(16)+20/(1+11);
     System.out.println("La respuesta del ejercicio es :  "+respuesta);   
-            
+    //Ejercicio resuelto y analizado correctamente        
        
     }
     
