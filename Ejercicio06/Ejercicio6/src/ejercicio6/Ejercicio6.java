@@ -9,7 +9,8 @@ public static void main(String[] args) {
    boolean respuesta;
    respuesta=((Math.sqrt(val1)+val2)/val3)==9 && (val4>val5);
     System.out.println("La  operacion es considerada: "+respuesta);
-   
+   //Ejercicio Resuelto Correctamente
+   //Autor DAMINGA
     
     
    
