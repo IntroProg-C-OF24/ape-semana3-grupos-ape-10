@@ -11,8 +11,8 @@ public class Ejercicio7 {
       boolean respuesta;
       respuesta=((Math.sqrt(val1)+val2)/val3)==9 || (val4>val5) && ((val6/val7))+(Math.sqrt(val6))==10; 
        System.out.println(respuesta);
-      //En es problema el ultimo ejercicio no tiene los suficientes datos para compararlo con los operadores
-      //Añadi el operador igual para poder obetner una respuesta.
+      //En este problema el ultimo ejercicio no tiene los suficientes datos para compararlo con los operadores
+      //Añadi el operador igual para poder obtener una respuesta.
       //Autor DAMINGA
       
     }
