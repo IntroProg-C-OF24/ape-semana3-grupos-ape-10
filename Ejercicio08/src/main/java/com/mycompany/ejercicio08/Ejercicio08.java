@@ -14,6 +14,7 @@ public class Ejercicio08 {
         
         respuesta = (((valor01 * valor02)+ valor03-valor04/valor05+ Math.pow(valor06, 2)>=valor07)||(valor08>=valor08-valor08+valor09));
         System.out.println("La respuesta es:" + respuesta);
-        
+        // Ejecicios 8 listo respuesta es Falsa
+        // Hecho por Mario.
     }
 }
